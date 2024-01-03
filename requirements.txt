@@ -4,8 +4,8 @@ matplotlib==3.7.4
 matplotlib-inline
 matplotlib-venn==0.11.9
 pandas==2.0.3
-pandas-datareader==0.10.0
-pandas-profiling==3.6.6
+pandas-datareader
+pandas-profiling
 pandas-summary==0.2.0
 pandasql==0.7.3
 scikit-learn==1.2.2
