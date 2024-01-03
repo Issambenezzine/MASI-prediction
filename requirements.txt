@@ -1,2 +1,12 @@
 flask
-joblib==1.3.2
+geopandas
+joblib
+matplotlib
+matplotlib-inline
+pandas
+pandas-datareader
+pandas-profiling
+pandas-summary
+scikit-learn
+sklearn-pandas
+xgboost
